@@ -202,6 +202,16 @@ doit proc			; proc -- procedure
 	;	1110	|	E
 	;	1111	|	F
 
+	; ------------------------------------ Adding Hexadecimal Numbers -----------------------------------------
+	; ref link:https://www.youtube.com/watch?v=rOKWhDyVPYM&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=14
+
+
+
+
+
+
+
+
 
 
 
